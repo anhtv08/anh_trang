@@ -1,0 +1,6 @@
+[submodule "\\Users\\Nien\\Documents\\GitHub\\anh_trang\\angular_bootstrap_spring"]
+	path = \\Users\\Nien\\Documents\\GitHub\\anh_trang\\angular_bootstrap_spring
+	url = C:\\Users\\Nien\\Documents\\GitHub\\anh_trang\\angular_bootstrap_spring
+[submodule "angular_bootstrap_spring"]
+	path = angular_bootstrap_spring
+	url = ../angular_bootstrap_spring
